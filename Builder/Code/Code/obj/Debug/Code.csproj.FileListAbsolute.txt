@@ -1,0 +1,5 @@
+/Users/kb102551/Documents/test/Patterns/Builder/Code/Code/obj/Debug/Code.csprojAssemblyReference.cache
+/Users/kb102551/Documents/test/Patterns/Builder/Code/Code/bin/Debug/Code.exe
+/Users/kb102551/Documents/test/Patterns/Builder/Code/Code/bin/Debug/Code.pdb
+/Users/kb102551/Documents/test/Patterns/Builder/Code/Code/obj/Debug/Code.exe
+/Users/kb102551/Documents/test/Patterns/Builder/Code/Code/obj/Debug/Code.pdb

@@ -1,0 +1,5 @@
+/Users/kb102551/Documents/test/Patterns/Singleton/Code/SingletonPattern/SingletonPattern/bin/Debug/SingletonPattern.exe
+/Users/kb102551/Documents/test/Patterns/Singleton/Code/SingletonPattern/SingletonPattern/bin/Debug/SingletonPattern.pdb
+/Users/kb102551/Documents/test/Patterns/Singleton/Code/SingletonPattern/SingletonPattern/obj/Debug/SingletonPattern.csprojAssemblyReference.cache
+/Users/kb102551/Documents/test/Patterns/Singleton/Code/SingletonPattern/SingletonPattern/obj/Debug/SingletonPattern.exe
+/Users/kb102551/Documents/test/Patterns/Singleton/Code/SingletonPattern/SingletonPattern/obj/Debug/SingletonPattern.pdb
